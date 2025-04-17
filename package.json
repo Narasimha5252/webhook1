@@ -1,9 +1,8 @@
 {
   "name": "webhook-project",
   "version": "1.0.0",
-  "description": "A simple webhook for Vercel",
-  "main": "index.js",
-  "scripts": {
-    "start": "vercel dev"
+  "dependencies": {},
+  "engines": {
+    "node": ">=14.x"
   }
 }
